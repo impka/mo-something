@@ -15,6 +15,8 @@ Screenshots of the app are located in /screenshots
 
 Answers for the 5 questions are located in answers.txt
 
+Sample schema for MoVids is located in schema.sql
+
 ## Assumptions & Limitations
 
 No API was actually used, so it's just a framework for a possible feature for now.
