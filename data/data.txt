@@ -1,0 +1,16 @@
+{
+  "movids": [
+    {
+      "id": "31fb7276-16f9-4001-8158-a3c5d03e6966",
+      "title": "Sample1",
+      "prompt": "a good description",
+      "durationSeconds": 30,
+      "resolution": "720p",
+      "generatedPreviewUrl": "/placeholder-preview.png",
+      "createdAt": "2025-11-05T05:03:57.806Z",
+      "lastModified": "2025-11-05T05:03:57.806Z",
+      "tags": [],
+      "status": "placeholder"
+    }
+  ]
+}

@@ -1,36 +1,21 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## MoVids
 
-## Getting Started
+This submission for the Mo-Something activity at MoFlo.ai seeks
+to add a feature to allow users to generate video content. 
 
-First, run the development server:
+## Setup
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Run `npm run dev` in the terminal.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Key features and functionality
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Currently it is not connected to an API, so it just takes in information through the form on the /mo-vids/create route and then appends it to a data.txt file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Screenshots of the app are located in /screenshots
 
-## Learn More
+Answers for the 5 questions are located in answers.txt
 
-To learn more about Next.js, take a look at the following resources:
+## Assumptions & Limitations
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+No API was actually used, so it's just a framework for a possible feature for now.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.

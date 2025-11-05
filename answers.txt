@@ -1,0 +1,22 @@
+1. What is the product’s name (your Mo-Something app)?
+MoVids
+2. What is the function + connection?
+MoVids uses AI (I had something like Sora in mind) to generate videos 
+for social media like YouTube, Instagram, Facebook, X, etc. 
+
+3. Why did you choose to make the product?
+With AI like Sora, engaging generated videos are much more viable now. 
+I think having videos related to your small business is a good way to boost engagement
+and market your product.
+
+4. Why would MoFlo clients (small and medium sized businesses) be interested in and/or
+use this product?
+MoFlo clients would want to use this as it provides an easy way to create content
+for their social media that is more engaging than say, a text post or image.
+
+5. What would you improve or change about your new product if you had more time or
+could work on it in the future?
+I would do several things:
+    1. Integrate it with OpenAI so it actually uses Sora
+    2. Match it more closely with MoFlo's style
+    3. Add a function where it automatically uploads videos on social media.
